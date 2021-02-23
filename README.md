@@ -8,4 +8,4 @@ To use Bioconda, please see [Bioconda](https://bioconda.github.io/) home page fo
 * [Pipeline](https://github.com/prasert05/fmtg_rnaseq/blob/main/pipeline.md)
 
 ### Publication
-Stay tuned
+In progress
