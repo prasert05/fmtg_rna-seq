@@ -8,8 +8,7 @@ To use Bioconda, please see [Bioconda](https://bioconda.github.io/) home page fo
 * [Pipeline](https://github.com/prasert05/fmtg_rnaseq/blob/main/pipeline.md)
 
 ### Publication
-Yodsawat, P., Nuanpirom, J., Sathapondecha, P., & Sangket, U. (2021). RNA-Seq dataset of thoracic ganglia transcriptome across four ovarian development stages in Fenneropenaeus merguiensis. Data in Brief, 107053.
-https://doi.org/10.1016/j.dib.2021.107053
+Yodsawat P, Nuanpirom J, Sathapondecha P, Sangket U. RNA-Seq dataset of thoracic ganglia transcriptome across four ovarian development stages in Fenneropenaeus merguiensis. Data Brief. 2021 Apr 20;36:107053. doi: 10.1016/j.dib.2021.107053. PMID: 33997198; PMCID: PMC8100087.
 
 ### GitHub contributors
 ![GitHub Contributors Image](https://contrib.rocks/image?repo=prasert05/fmtg_rna-seq)
